@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suvigya (@suvigyajain0101)
 - 👀 I’m interested in Machine Learning, AI - specifically NLP and RecSys
-- 🌱 I’m currently learning TensorFlow, basics of Deep Learning
+- 🌱 I’m currently working on NLP problems using TensorFlow and Deep Learning
 - 💞️ I’m looking to collaborate on RecSys
 - 📫 I'm available via email on suvigyajain@yahoo.com
 
